@@ -1,7 +1,7 @@
 
 #coding=utf-8
 
-SistemasOperacionais = ["windwos","macos","linux","solaris","android","ios"]
+SistemasOperacionais = ["windows","macos","linux","solaris","android","ios"]
 
 #Loop 1
 ficheiro = "loop1.txt"
