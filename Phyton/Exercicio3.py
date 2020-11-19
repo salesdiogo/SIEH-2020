@@ -13,6 +13,6 @@ file.close
 
 lista_NUM = []
 file = open ("portList.txt","w")
-[file.write(str(numero) + "\n") for numero in range(1, 1024)]
+[file.write(str(numero) + "\n") for numero in range(1, 1025)]
 file.close()
 
